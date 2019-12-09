@@ -1,3 +1,3 @@
 ApiNameSeguridad: apiiSQL
 BusTopic: topiccompra
-BusSuscriptor: comprasql
+BusSuscriptor: comprasq
